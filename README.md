@@ -14,5 +14,4 @@ The parsing was done with the help of [tabula-java](https://github.com/tabulapdf
 java -jar tabula.jar input.pdf -a 115,30,561,813 -c 62,90,211,335,452,506,557,611,640,670,698,721,746,776 -f CSV -p all -o output.csv
 ```
 
-I reoved the first and last pages of the file beforehand.
-
+I removed the first and last pages of the file beforehand.
